@@ -1,7 +1,7 @@
 ## Hi I,m Rishabh 👋
-🧠 Computer science student/>
-🏫 Shri Mata Vaishno Devi University/>
-🎯 9.15 Cgpa>
+🧠 Computer science student<br>
+🏫 Shri Mata Vaishno Devi University<br>
+🎯 9.15 Cgpa
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishabh-singh704) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhsingh742006@gmail.com) 
