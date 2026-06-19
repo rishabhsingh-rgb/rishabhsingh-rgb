@@ -1,7 +1,7 @@
 ## Hi👋 I,m Rishabh 
 🧠 Computer science student<br>
 🏫 Shri Mata Vaishno Devi University<br>
-🎯 9.15 Cgpa
+🎯 9.26 Cgpa
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhsingh-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhsingh-rgb" /> </p>
 
